@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*te amo cariño*
+**me has hecho feliz**
+_muchas veces_
+__no sabes cuanto mi amor__
+_de una manera_**inexplicable**
